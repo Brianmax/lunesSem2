@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="367150ca-3bac-488d-b656-0bd354b68d2a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LunesSem2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/Ejercicio12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/Ejercicio16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/Ejercicio19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/Ejercicio8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/Ejercicio9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/Ejercicio5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +44,7 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -75,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715040465352</updated>
-      <workItem from="1715040466389" duration="11878000" />
+      <workItem from="1715040466389" duration="14871000" />
     </task>
     <servers />
   </component>
